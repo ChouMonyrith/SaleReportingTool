@@ -11,11 +11,9 @@ This project is a submission for the C# Developer Internship Coding Test. It is 
 - **Dynamic PDF Export:** Users can export the generated report to a PDF file.
 - **Multilingual Support:** The UI and report headers can be switched between English and Khmer.
 
-![Description](SaleReportingTool
-/Screenshot 2025-07-03 112902.png)
+![image alt](SaleReportingTool/Screenshot 2025-07-03 112902.png)
 
-![Description](SaleReportingTool
-/Screenshot 2025-07-03 112919.png)
+![image alt](SaleReportingTool/Screenshot 2025-07-03 112919.png)
 
 
 ## How to Clone and Set Up
